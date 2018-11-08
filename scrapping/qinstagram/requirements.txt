@@ -1,0 +1,3 @@
+# package>=version
+mypy==0.641
+requests==2.19.1
